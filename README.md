@@ -1,2 +1,12 @@
 # Sales-Report-using-PowerBi
 In this project i am using power bi to visualize the Sales data to powerbi report and analize the information.
+In this project, I am using power bi to create a detailed sales report and visualise the sales data of global Store. After the proper data cleaning process, I have cleared the duplicate values, blank cells and changed the data type of each columns to the appropriate ones. 
+
+In the report view, you can see two doughnut charts that shows sales details and profit details. Based on markets. There is a slicer on top of that so we can get the information of each month using the slicer. In addition to that we can see the total sales, total profit and shipping cost on top of the first page of the report . 
+
+From the first page of the data, we can see that APAC market has the most sales followed by EU, US etc , same as the profit and from the bar chart, we can understand that the central region of the market has the most sales in which office supplies are the category which most of the sale is are done. 
+From the stacked area chart, we can understand each countries, profit, and sales value. 
+
+From the bar diagram of the second page, we can see the most preferred ship more by market regions. In every region, most people prefer standard class shipping mode followed by second class, then first class and at last same day delivery delivery. From the next chart we can understand the ship mode and priority. Most of the high priority products are shipped using standard class followed by second class, then the same day. One donut chart and one pie chart or added to the same page which shows the shipping cost of each region and in the middle, it shows the cost of shipping by the pie chart. We can get information about the total cost of ship modes, irrespective of regions, countries, et cetera.
+
+In the last page, there are two tables which shows the details of average time to ship a product after the order date and another table shows the region,  market and the preferred ship mode . Coming to the charts in the third page, I have added a geographical location map so that we can understand the geographical location of each market, which is distinguished by colours. In addition to that I have added a card showing the average time to ship and a stack bar diagram, that shows the average time to ship across different regions of market. I have added the power by file, a PDF of the same, and attaching a video explaining all this, I hope you will understand the information from the power by report.
